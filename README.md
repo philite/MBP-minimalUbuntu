@@ -14,15 +14,19 @@ https://github.com/coldnew/macbookpro-2015-config*
   
   I use Etcher to create a bootable linux thumbdrive.
   
-### minimal Ubuntu ISO
+### Ubuntu Linux ISO (Ubuntu-ISO variant)
   
-  I choose this to install only package I needed to use the OS.
+  I choose Ubuntu_mini to install only package I needed to use the OS.
   
 ### MBP Partitioning
+
+  I want 65% Linux and 35% MacOS
   
 ### rEFInd Installation
   
-### rEFInd Theme
+  Required for booting
+  
+#### rEFInd Theme (Optional)
   
   https://sdbinwiiexe.deviantart.com/art/rEFInd-Next-Theme-407754566
   
